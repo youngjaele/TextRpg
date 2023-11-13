@@ -1,0 +1,14 @@
+D:\Visual Studio\TextRpg\TextRpg\bin\Debug\net6.0\TextRpg.exe
+D:\Visual Studio\TextRpg\TextRpg\bin\Debug\net6.0\TextRpg.deps.json
+D:\Visual Studio\TextRpg\TextRpg\bin\Debug\net6.0\TextRpg.runtimeconfig.json
+D:\Visual Studio\TextRpg\TextRpg\bin\Debug\net6.0\TextRpg.dll
+D:\Visual Studio\TextRpg\TextRpg\bin\Debug\net6.0\TextRpg.pdb
+D:\Visual Studio\TextRpg\TextRpg\obj\Debug\net6.0\TextRpg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\TextRpg\TextRpg\obj\Debug\net6.0\TextRpg.AssemblyInfoInputs.cache
+D:\Visual Studio\TextRpg\TextRpg\obj\Debug\net6.0\TextRpg.AssemblyInfo.cs
+D:\Visual Studio\TextRpg\TextRpg\obj\Debug\net6.0\TextRpg.csproj.CoreCompileInputs.cache
+D:\Visual Studio\TextRpg\TextRpg\obj\Debug\net6.0\TextRpg.dll
+D:\Visual Studio\TextRpg\TextRpg\obj\Debug\net6.0\refint\TextRpg.dll
+D:\Visual Studio\TextRpg\TextRpg\obj\Debug\net6.0\TextRpg.pdb
+D:\Visual Studio\TextRpg\TextRpg\obj\Debug\net6.0\TextRpg.genruntimeconfig.cache
+D:\Visual Studio\TextRpg\TextRpg\obj\Debug\net6.0\ref\TextRpg.dll
